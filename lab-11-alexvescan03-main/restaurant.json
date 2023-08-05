@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.restaurant.Restaurant", "id_entity": "1", "nume": "asda", "adresa": "asdsada", "vegetarian": true}, "2": {"py/object": "Domain.restaurant.Restaurant", "id_entity": "2", "nume": "asdasdads", "adresa": "xcz", "vegetarian": false}, "3": {"py/object": "Domain.restaurant.Restaurant", "id_entity": "3", "nume": "ccc", "adresa": "asdad", "vegetarian": false}}
